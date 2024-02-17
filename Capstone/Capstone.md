@@ -1,9 +1,8 @@
 this consists of some intentionally vulnerable machines which would be exploited using our kali linux machine
-* [[Capstone#__Blue__ |Blue]]
-* [[Capstone#Academy |Academy]]
-* [[Capstone#Dev|Dev]]
-* 
-# DjanBlue
+* Blue
+* Academy
+* Dev
+# Blue
 
 * once we launch our windows vista machine we get its ip ip address from ```netdiscover``` and then launch our nmap fdbcvxdfghtfhgfhggfhgscan on it and thixcv xcvs is what the results gave fcbcv,hvjhghus 
 ```

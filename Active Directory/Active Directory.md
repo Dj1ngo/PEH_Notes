@@ -1,10 +1,10 @@
-*  [[Active Directory#Introduction|1.Introduction]]
-* [[Active Directory#Attacking Active Directory: Initial Attack Vectors|2.Attacking Active Directory: Initial Attack Vectors]]
-	* [[Active Directory#1 - LLMNR Poisoning|1- LLMNR Poisoning]]
-	* [[Active Directory#2- SMB Relay|2- SMB Relay]]
-	* [[Active Directory#3- Gaining Shell Access|3- Gaining Shell Access]]
-*  [[Active Directory#Post-Compromise Enumeration|3.Attacking Active Directory: Post-Compromise Enumeration]]
- * [[Active Directory#Post-Compromise Attacks|4.Attacking Active Directory: Post-Compromise Attacks]]	
+*  1.Introduction
+* 2.Attacking Active Directory: Initial Attack Vectors
+	* 1- LLMNR Poisoning
+	* 2- SMB Relay
+	* 3- Gaining Shell Access
+*  3.Attacking Active Directory: Post-Compromise Enumeration
+ * 4.Attacking Active Directory: Post-Compromise Attacks	
  
 
 
